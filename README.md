@@ -1,10 +1,10 @@
-# package_name
+# Pacote Loja Bicicleta
 
-Description. 
+Descricão. 
 Esta pacote pode ser utilizado para implementar um sistema basico de Loja de Biciletas:
 	- Permite a criacao de varias lojas e controlar estoque das mesmas.
 
-## Installation
+## Instalação
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
@@ -15,8 +15,8 @@ pip install Loja_Bicicleta
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from Loja_Bicicleta import Loja
+Loja.my_function()
 ```
 
 ## Author
